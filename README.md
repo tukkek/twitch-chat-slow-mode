@@ -12,7 +12,7 @@ This way, you retain whatever value chat has while still being able to read the 
 ## Usage
 
 1. Instlal an user-scrpt manager such as [Tampermonkey](https://www.tampermonkey.net/).
-2. Install this user-script.
+2. [Install this user-script](https://github.com/tukkek/twitch-chat-slow-mode/raw/main/Twitch%20Chat%20Slow%20Mode.user.js).
 3. Open any Twitch channel chat via the "pop out chat" menu option.
 
 If the user-script is working you will see a message saying "Slow mode active".
