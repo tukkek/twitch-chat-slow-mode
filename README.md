@@ -5,7 +5,7 @@ Twitch chat is absolutely useless past a certain point, like for streams with do
 - Slows messages to one every 3 seconds.
 - Ignores messages longer than a tweet.
 
-The idea is that there is nothing of value lost by reducing message volume - even mass reactions such as emotes and *???????* can be captured by selecting a random message. Nothing of value is lost by ignoring people writing unreadeable essays that will stay on-screen for half a second.
+The idea is that there is nothing of value lost by reducing message volume - even mass reactions such as emotes and *???????* can be captured by selecting a random message. Nothing of value is lost by ignoring people writing unreadeable essays that will stay on-screen for half a second or spamming copy-pasta.
 
 This way, you retain all of the chat value while still being able to read the occasional insightful, funny or clever message someone may type without the extreme spam.
 
