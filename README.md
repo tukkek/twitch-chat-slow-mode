@@ -13,7 +13,7 @@ This is meant mostly as a last-resort for viewers. Streamers are encouraged to u
 
 ## Usage
 
-1. Instlal an user-scrpt manager such as [Tampermonkey](https://www.tampermonkey.net/).
+1. Install a user-scrpt manager such as [Tampermonkey](https://www.tampermonkey.net/).
 2. [Install this user-script](https://github.com/tukkek/twitch-chat-slow-mode/raw/main/Twitch%20Chat%20Slow%20Mode.user.js).
 3. Open any Twitch channel chat via the "pop-out chat" menu option.
 
