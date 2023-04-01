@@ -1,6 +1,6 @@
 # Twitch chat slow-mode
 
-Twitch chat is absolutely useless past a certain point, like for streams with dozens of thousands of viewers constantly spamming messages. This user-script:
+[Twitch](https://www.twitch.tv/) chat is absolutely useless past a certain point, like for streams with dozens of thousands of viewers constantly spamming messages. This user-script:
 
 - Slows messages to one every 3 seconds.
 - Ignores messages longer than a tweet.
