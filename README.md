@@ -9,6 +9,8 @@ The idea is that there is nothing of value lost by reducing message volume - eve
 
 This way, you retain whatever value chat has while still being able to read the occasional insightful, funny or clever message someone may type, without the extreme spam.
 
+This is meant mostly as a last-resort for viewers. Streamers are encouraged to use Twitch's features intelligently such as sub-only mode and slow mode.
+
 ## Usage
 
 1. Instlal an user-scrpt manager such as [Tampermonkey](https://www.tampermonkey.net/).
